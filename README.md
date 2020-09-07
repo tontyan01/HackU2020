@@ -1,2 +1,1 @@
-# skiaProject
 # HackU2020
